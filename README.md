@@ -1,2 +1,3 @@
 # tiktok-emojis
-Upscaled verisons of TikTok
+
+Upscaled verisons of TikTok's secret emojis
